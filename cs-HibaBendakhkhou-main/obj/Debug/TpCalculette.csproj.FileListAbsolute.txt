@@ -1,0 +1,50 @@
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.exe.config
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.exe
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.pdb
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.exe
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.pdb
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.frmCalculette.resources
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.exe.config
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.exe
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.pdb
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.frmCalculette.resources
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.exe
+C:\Users\Hiba Bendakhkhou\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.pdb
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.frmCalculette.resources
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.exe
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.pdb
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.exe.config
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.exe
+C:\Users\hibab\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.pdb
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.frmCalculette.resources
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.exe
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\obj\Debug\TpCalculette.pdb
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\bin\Debug\TpCalculette.exe.config
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\bin\Debug\TpCalculette.exe
+C:\Users\hiba bendakh\Desktop\c\cs-HibaBendakhkhou-42365e021936447cbc27fc3b172169a83bff373a\bin\Debug\TpCalculette.pdb
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.exe.config
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.exe
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\bin\Debug\TpCalculette.pdb
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.frmCalculette.resources
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.exe
+C:\Users\hiba\Source\Repos\cs-HibaBendakhkhou\obj\Debug\TpCalculette.pdb
